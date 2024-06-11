@@ -10,8 +10,8 @@ book:
   author: Wolfram Barfuss et al.
   date: last-modified
   date-format: long
-  # twitter-card: true
-  # open-graph: true
+  downloads: [pdf]
+  repo-url: https://github.com/wbarfuss/collective-cooperative-intelligence
   sidebar:
     style: floating
   chapters:
@@ -25,12 +25,12 @@ book:
     - 08_SimulationScripts.ipynb
     - 09_References.ipynb
 
+
 format:
   html:
     theme:
       light: Flatly
       dark: Darkly
-    # css: styles.css
     toc: true
     number-depth: 1
 
