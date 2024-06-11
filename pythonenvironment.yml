@@ -1,0 +1,12 @@
+name: cocoin
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.8
+  - jupyterlab=4.1.6
+  - scikit-optimize=0.10.1
+  - pip=24.0
+  - pip:
+      - git+https://github.com/BarfussLab/pyCRLD.git@v0.0.1
+      - nbdev==2.3.13

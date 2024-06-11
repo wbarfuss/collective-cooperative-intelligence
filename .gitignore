@@ -1,0 +1,9 @@
+/.quarto/
+/__output/
+
+*__pycache__/
+
+*.ipynb_checkpoints/
+*.jupyter/
+
+*.DS_Store

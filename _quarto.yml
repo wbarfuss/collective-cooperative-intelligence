@@ -1,0 +1,63 @@
+project:
+  type: book
+  output-dir: __output
+
+bibliography: CoCoIn.bib
+csl: apa7.csl
+
+book:
+  title: Supplementary Information for Collective Cooperative Intelligence
+  author: Wolfram Barfuss et al.
+  date: last-modified
+  date-format: long
+  # twitter-card: true
+  # open-graph: true
+  sidebar:
+    style: floating
+  chapters:
+    - index.ipynb
+    - 02_LiteratureBackground.ipynb
+    - 03_Framework.ipynb
+    - 04_MultiStability.ipynb
+    - 05_AbruptTransitions.ipynb
+    - 06_Hysteresis.ipynb
+    - 07_DynamicRegmies.ipynb
+    - 08_SimulationScripts.ipynb
+    - 09_References.ipynb
+
+format:
+  html:
+    theme:
+      light: Flatly
+      dark: Darkly
+    # css: styles.css
+    toc: true
+    number-depth: 1
+
+  pdf:
+    documentclass: scrreprt
+    papersize: A4
+    geometry: 
+      - top=20mm
+      - left=20mm
+      - right=20mm
+      - bottom=25mm
+    fig-width: 9
+    fig-height: 7
+    # mathspec: true
+    include-in-header: 
+      text: |
+        \usepackage{mathtools,amsfonts,dsfont,amsmath,amssymb}
+        \usepackage{lscape}
+        \newcommand{\blandscape}{\begin{landscape}{\tiny}
+        \newcommand{\elandscape}{\end{landscape}}}
+        %
+        % break long lines of code
+        \usepackage{fvextra} 
+        \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}  
+        \DefineVerbatimEnvironment{OutputCode}{Verbatim}{breaklines,commandchars=\\\{\}}
+    block-headings: false
+    link-citations: true
+    number-depth: 2
+    toc-depth: 2
+	
