@@ -5,7 +5,7 @@ Both fields complement each other in their goals, methods, and scope.
 
 This supplementary information presents a more detailed background on the [literature](02_LiteratureBackground.ipynb). Furthermore, we give all the details regarding the collective reinforcement learning dynamics [framework](03_Framework.ipynb) we employ and how we applied it to create all complex phenomena presented in the main text (see subsequent notebooks).
 
-### Reproducibility {.unnumbered}
+### Reproducibility
 This supplementary information was created in a *fully reproducible writing and computing environment* with the help of [nbdev](https://nbdev.fast.ai) and [quarto](https://quarto.org). 
 
 To reproduce all simulations, create a new conda environment with the provided `pythonenvironment.yml` file.
