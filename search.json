@@ -30,6 +30,16 @@
     ]
   },
   {
+    "objectID": "02_LiteratureBackground.html#examplary-works-on-the-learning-dynamics-of-cooperation",
+    "href": "02_LiteratureBackground.html#examplary-works-on-the-learning-dynamics-of-cooperation",
+    "title": "2  Literature background",
+    "section": "Examplary works on the learning dynamics of cooperation",
+    "text": "Examplary works on the learning dynamics of cooperation\nThe study of cooperation has not been at the center of Collective Reinforcement Learning Dynamics (CRLD) studies. Here we list some notable examples from mathematical biology and sociology.\n\nL. Panait, K. Tuyls, S. Luke, Theoretical advantages of lenient learners: An evolutionary game theoretic perspective. J. Mach. Learn. Res. 9, 423–457 (2008).\nS. S. Izquierdo, L. R. Izquierdo, N. M. Gotts, Reinforcement learning dynamics in social dilemmas. J. Artif. Soc. Soc. Simul. 11, 1 (2008).\nM. Wunder, M. L. Littman, M. Babes, Classes of multiagent Q-learning dynamics with epsilon-greedy exploration in ICML (2010).\nN. Masuda, M. Nakamura, Numerical analysis of a reinforcement learning model with the dynamic aspiration level in the iterated Prisoner’s dilemma. J. Theor. Biol. 278, 55–62 (2011).\nS. Tanabe, N. Masuda, Evolution of cooperation facilitated by reinforcement learning with adaptive aspiration levels. J. Theor. Biol. 293, 151–160 (2012).\nT. Ezaki, Y. Horita, M. Takezawa, N. Masuda, Reinforcement learning explains conditional cooperation and its moody cousin. PLoS Comput. Biol. 12, e1005034 (2016).\nS. Dridi, E. Akçay, Learning to cooperate: The evolution of social rewards in repeated interactions. Am. Nat. 191, 58–73 (2018).\nO. Leimar, J. M. McNamara, Learning leads to bounded rationality and the evolution of cognitive bias in public goods games. Sci. Rep. 9, 16319 (2019).\nW. Barfuss, J. F. Donges, V. V. Vasconcelos, J. Kurths, S. A. Levin, Caring for the future can turn tragedy into comedy for long-term collective action under risk of collapse. Proc. Natl. Acad. Sci. U.S.A. 117, 12915– 12922 (2020).\nW. Z. Wang et al., “Emergent prosociality in multi-agent games through gifting” in Twenty-Ninth International Joint Conference on Artificial Intelligence (2021), vol. 1, pp. 434–442.\nL. Wang et al., Lévy noise promotes cooperation in the Prisoner’s dilemma game with reinforcement learning. Nonlinear Dyn. 108, 1837–1845 (2022).\nW. Barfuss, J. M. Meylahn, Intrinsic fluctuations of reinforcement learning promote cooperation. Sci. Rep. 13, 1309 (2023).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Literature background</span>"
+    ]
+  },
+  {
     "objectID": "02_LiteratureBackground.html#sec-note",
     "href": "02_LiteratureBackground.html#sec-note",
     "title": "2  Literature background",
